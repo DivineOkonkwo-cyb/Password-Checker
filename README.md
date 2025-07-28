@@ -1,5 +1,5 @@
 # Password-Checker
-A simple Python password strength checker
+A simple Python password strength checker in Ubuntu Virtual Machine
 # Simple Password Strength Checker using SHA-512
 # Author: [Your Name]
 # This script reads usernames and passwords from a file,
